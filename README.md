@@ -18,14 +18,17 @@ $ python CNN.py
 ```
 
 ## Results
+Some predictions 
 | ![results.png](results.png) | 
 |:--:| 
 | classification results |
 
+Train Loss History
 | ![loss.png](loss.png) | 
 |:--:| 
 | epoch - Loss |
 
+Testing the network on the test dataset
 ```bash
 overall accuracy is 0.92
 overall precision is 0.93
