@@ -1,7 +1,7 @@
 # fruit-vegetable-classification
 Training a simple ConvNet to classify fruits and vegetables with PyTorch
 
-[Dataset](https://www.kaggle.com/moltean/fruits) is available in kaggle.
+[Dataset](https://www.kaggle.com/moltean/fruits) is available in kaggle. Download the dataset, unzip it to where "CNN.py" or "CNN.ipynb" is
 
 In this dataset, there are 131 classes.
 
