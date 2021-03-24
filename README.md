@@ -5,6 +5,11 @@ Training a simple ConvNet to classify fruits and vegetables with PyTorch
 
 In this dataset, there are 131 classes.
 
+CNN architecture
+```bash
+INPUT -> [CONV -> RELU -> POOL]*3 -> FC
+```
+
 
 Install the required libraries
 ```bash
